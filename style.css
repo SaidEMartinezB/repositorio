@@ -1,6 +1,7 @@
 .menu{
     width: 30px;
-    height: 50px;
-    background-color: aquamarine;
+    height: 60px;
+    padding: 0;
+    background-color: rgb(62, 212, 212);
     border: solid 1px;
 }
